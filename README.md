@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Jahdai
 [instagram]: https://www.instagram.com/Jahdai
-[linkedin]: https://linkedin.com/in/Jahdai
+[linkedin]: https://linkedin.com/in/jahdai-ferreira
