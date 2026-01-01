@@ -1,8 +1,7 @@
 <h1>Hi, I'm Jahdai, an <a href="https://linkedin.com/in/Josh">IT Professional</a>!</h1>
-
-Aspiring IT & Cybersecurity Professional
-Exploring networks, systems, and security tools
-Building skills through hands-on labs and practical problem-solving
+Aspiring IT & Cybersecurity Professional<br>
+Exploring networks, systems, and security tools<br>
+Building skills through hands-on labs and practical problem-solving<br>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
