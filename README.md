@@ -2,7 +2,6 @@
 Aspiring IT & Cybersecurity Professional
 
 Exploring networks, systems, and security tools
-
 Building skills through hands-on labs and practical problem-solving
 <h2>👨‍💻 Information Technology Projects:</h2>
 
