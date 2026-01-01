@@ -20,5 +20,5 @@ Building skills through hands-on labs and practical problem-solving
 [<img align="left" alt="Jahdai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/JahdaiFe
-[instagram]: https://www.instagram.com/Jahdai
+[instagram]: https://www.instagram.com/jahdaife
 [linkedin]: https://linkedin.com/in/jahdai-ferreira-79a320149
