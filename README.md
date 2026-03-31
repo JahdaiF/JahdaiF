@@ -28,6 +28,6 @@
 [<img align="left" alt="Jahdai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jahdai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/JahdaiFe
-[instagram]: https://www.instagram.com/jahdaife
-[linkedin]: https://linkedin.com/in/jahdai-ferreira-79a320149
+[twitter]:https://twitter.com/JahdaiFe
+[instagram]:https://www.instagram.com/jahdaife
+[linkedin]:https://linkedin.com/in/jahdai-ferreira-79a320149
