@@ -24,10 +24,13 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JahdaiF/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[<img align="left" alt="Jahdai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Jahdai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jahdai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]  https://twitter.com/JahdaiFe
-[instagram] : https://www.instagram.com/jahdaife
-[linkedin] : https://linkedin.com/in/jahdai-ferreira-79a320149
+<a href="https://twitter.com/JahdaiFe">
+  <img align="left" alt="Jahdai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/jahdai-ferreira-79a320149">
+  <img align="left" alt="Jahdai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/jahdaife">
+  <img align="left" alt="Jahdai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
