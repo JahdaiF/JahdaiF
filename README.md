@@ -14,14 +14,16 @@
 <b>🔄 Completed — Documentation In Progress</b><br>
 - <b>Active Directory Deployment & Management</b> *(Photos and writeup being added)*
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JahdaiF/configure-ad)
+- <b>Azure Environment Setup & Configuration</b>
+- <b>Network Security Groups (NSGs) & Network Traffic Analysis</b>
 - <b>Network Traffic Analysis with Wireshark</b>
 - <b>DNS Configuration & Management</b>
 - <b>VPN & IP Address Management</b>
 - <b>File Share Permissions & Security Groups</b>
 
 <b>🚧 Coming Soon</b><br>
-- <b>Network Security Groups (NSGs) & Network Traffic Analysis</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JahdaiF/azure-network-protocols)
+- <b>VLAN Configuration & Troubleshooting</b>
+ 
 
 <h2>🤳Connect with me:</h2>
 
