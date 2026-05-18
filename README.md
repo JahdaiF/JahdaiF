@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jahdai, an <a href="https://linkedin.com/in/jahdai-ferreira-79a320149">IT Professional</a>!</h1>
-💻IT & aspiring Cybersecurity Professional<br>
+💻IT Professional & aspiring Cybersecurity Specialist<br>
 🖧Exploring networks, systems, and security tools<br>
 🛠️Building skills through hands-on labs and practical problem-solving<br>
 
